@@ -5,7 +5,7 @@
 
 This repository contains the **Figma design files** for a modern, multi-page website. The design is clean, professional, and suitable for a **corporate site, educational institution, or personal portfolio**.
 
-➡️ **[View the Live Figma Design File Here](#)**
+➡️ **[[View the Live Figma Design File Here](#)](https://www.figma.com/file/m5Uh5t9LhzfB56CFeRegCt/shop?type=design&t=fLCkPy9v8kiy9uTM-6)**
 
 <!-- Replace the `#` with your actual public Figma share link -->  
 
